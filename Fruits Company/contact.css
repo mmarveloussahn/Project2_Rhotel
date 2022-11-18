@@ -1,0 +1,98 @@
+body{
+  background-color: black;
+
+}
+.div2{
+  font-size: 30px;
+  color:goldenrod;
+  font-family: sans-serif;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.footer{
+  display: flex;
+  background-color: white;
+  justify-content: space-around;
+  font-family: 'Times New Roman', Times, serif;
+  color:blue;
+  margin-bottom: 50px;
+  height: 100PX;
+  width: 1280PX;
+  margin-right: 20PX;
+  font-size: 19PX;
+}
+.footer .f{
+font-family: 'Times New Roman', Times, serif;
+  color: black;
+  cursor: pointer;
+}
+.footer a:hover{
+  color: blue;
+  }
+.footer .fa{
+width: 25px;
+height: 20px;
+border: none;
+border-radius: 50%;
+background-color: darkblue;
+color:white;
+font-family: 'Times New Roman', Times, serif;
+cursor: pointer;
+text-align: center;
+}
+.footer .fa:hover{
+  box-shadow: 6px 6px black;
+}
+.footer .fa:active{
+  opacity: 0.6;
+}
+.skill{
+  display: flex;
+  justify-content: space-around;
+  padding-left: 10px;
+}
+.skill p{
+  font-size: 13px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.skill p:hover{
+  box-shadow: 6px 6px goldenrod;
+}
+.skill p:active{
+opacity: 0.6;
+}
+ 
+ .ps{
+   font-size: 15px; 
+text-align: center;
+}
+.skill .pp{
+  width: 60px;
+  height: 25px;
+  border-radius: 50%;
+  background-color:gold;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  cursor: pointer;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  margin-left: 15px;
+}
+
+.footer1{
+  color:black;
+}
+img{
+  border-radius: 20px;
+}
+.img2{
+  border-radius: 20px;
+  width: 800px;
+  height: 700px;
+}
+
+
